@@ -6,6 +6,4 @@
 #
 #
 
-set(FILES
-    Source/WhiteBoxModuleUnsupported.cpp
-)
+set(PAL_TRAIT_WHITEBOX_SUPPORTED FALSE)

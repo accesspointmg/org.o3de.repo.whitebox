@@ -109,5 +109,16 @@
     "org.o3de.gem.whitebox",
     "Design",
     "Tools"
+  ],
+  "releases": [
+    {
+      "name": "2607.0",
+      "source_controls": [
+        {
+          "git": "https://github.com/accesspointmg/o3de-whitebox.git",
+          "tag": "2607.0"
+        }
+      ]
+    }
   ]
 }

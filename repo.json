@@ -94,7 +94,7 @@
     "overlays": []
   },
   "source_control": {
-    "git": "https://github.com/accesspointmg/o3de-whitebox.git",
+    "git": "https://github.com/accesspointmg/org.o3de.repo.whitebox.git",
     "branch": "2.0.0"
   }
 }
